@@ -4,7 +4,7 @@ var Stats = {
 	'companyValue': 0,
 	'computerModel': 'dev II',
 	'computerVersion': 0,
-	'money': 10,
+	'money': 10000000,
 	'jobs': [  ],
 	'projects': 0,
 	'parallelProjects': 0,
